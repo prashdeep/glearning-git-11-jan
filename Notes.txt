@@ -7,3 +7,7 @@ git config --global --list
 
 Life Cycle of Git Version Control
 
+git add - moves the changes from working directory to the staging area
+
+git commit - commits the changes to the repository 
+
