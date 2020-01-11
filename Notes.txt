@@ -1,0 +1,9 @@
+git init 
+
+git config --global user.name username 
+git config --global user.email emailaddress@gmail.com 
+
+git config --global --list
+
+Life Cycle of Git Version Control
+
