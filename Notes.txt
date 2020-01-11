@@ -11,3 +11,8 @@ git add - moves the changes from working directory to the staging area
 
 git commit - commits the changes to the repository 
 
+
+Branch commands 
+git checkout -b branch-name (to create a branch )
+git checkout branch (switch to the branch)
+git branch - To list all the branches and the asterix will display the current branc h 
